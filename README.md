@@ -1,4 +1,5 @@
 # bills-tracker-app
+# With this Vue App you can keep track your monthly bills by Categories such Rent, Internet, Electricity and etc.
 
 ## Project setup
 ```
